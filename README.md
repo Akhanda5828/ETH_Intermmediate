@@ -14,11 +14,8 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., SafeVoting.sol). Copy and paste the following code into the file:
 
 ```javascript
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.7;
 
 // SPDX-License-Identifier: MIT
-
 
 //This is basically a demo decentralized voting system that is being implemented in the solidity language
 pragma solidity ^0.8.7;
